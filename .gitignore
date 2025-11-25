@@ -1,0 +1,18 @@
+# Xcode
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad
+
+# Build
+build/
+DerivedData/
+*.xcarchive
+
+# macOS
+.DS_Store
+
+
+#
+.vscode
+.windsurf
+
